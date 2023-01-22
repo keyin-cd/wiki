@@ -79,6 +79,7 @@
     - [备忘录模式](design/备忘录模式.md)
 - vue
     - [vue面试题](vue/面试题.md)
+    - [生命周期](vue/生命周期.md)
 - react
 
 - flutter
